@@ -11,7 +11,7 @@ namespace listViewer
     {
         public Form forma;
         public List<Control> listControls = new List<Control>();
-
+        
         public InputFormsBuilder()
         {
 

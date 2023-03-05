@@ -25,7 +25,7 @@ namespace listViewer
             this.typeoffield = ptypeoffield;
             this.sizeoffield = psizeoffield;
             this.x = px;
-            this.y = px;
+            this.y = py;
             this.name = pname;
             this.description = pdescription;
             this.format = pformat;
